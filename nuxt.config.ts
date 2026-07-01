@@ -2,6 +2,11 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   modules: ['@nuxtjs/tailwindcss', '@nuxt/eslint'],
   css: ['~/assets/css/tailwind.css'],
+
+  imports: {
+    dirs: ['composables'],
+  },
+
   app: {
     head: {
       title: 'Fernanda Signorelli — Portfolio',

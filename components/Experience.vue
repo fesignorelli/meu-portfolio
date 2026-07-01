@@ -1,9 +1,9 @@
 <template>
-  <section class="bg-white text-charcoal">
+  <section id="experiencia" class="bg-white text-charcoal">
     <div
       class="mx-auto grid min-h-[760px] max-w-[1440px] gap-16 px-6 py-[70px] md:px-[102px] lg:grid-cols-2 lg:gap-[122px]"
     >
-      <article>
+      <article class="scroll-reveal">
         <h2 class="text-[clamp(44px,4.17vw,60px)] font-black leading-none">experiências.</h2>
         <p class="mt-3 text-[25px] italic">Janeiro 2025 - Atual</p>
         <h3 class="mt-1 text-[30px] font-bold leading-tight">
@@ -17,8 +17,7 @@
         </div>
       </article>
 
-      <!-- Formação -->
-      <article>
+      <article class="scroll-reveal" style="transition-delay: 0.2s">
         <h2 class="text-[clamp(44px,4.17vw,60px)] font-black leading-none">formação.</h2>
         <p class="mt-3 text-[25px] italic">Agosto 2025 à Agosto 2027</p>
         <h3 class="mt-1 text-[30px] font-bold">Web Design - Fiap</h3>

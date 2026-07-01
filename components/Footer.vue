@@ -1,24 +1,26 @@
-<!-- components/TheFooter.vue -->
 <template>
   <footer class="bg-charcoal text-white">
     <div class="mx-auto max-w-[1440px] px-6 py-20 md:px-14 lg:px-[105px]">
-      <!-- CTA -->
-      <p class="text-[clamp(40px,6.94vw,100px)] font-black leading-[.95] tracking-[-.04em]">
+      <p
+        class="scroll-reveal text-[clamp(40px,6.94vw,100px)] font-black leading-[.95] tracking-[-.04em]"
+      >
         vamos<br />trabalhar<span class="italic font-medium"> juntos?</span>
       </p>
 
       <a
         href="mailto:signorelli980@gmail.com"
-        class="mt-8 inline-block text-[clamp(20px,2.5vw,30px)] hover:underline"
+        class="scroll-reveal mt-8 inline-block text-[clamp(20px,2.5vw,30px)] hover:underline"
+        style="transition-delay: 0.15s"
       >
         signorelli980@gmail.com
       </a>
 
-      <!-- Divisor -->
-      <div class="mt-16 h-px w-full bg-white/20" />
+      <div class="scroll-reveal mt-16 h-px w-full bg-white/20" style="transition-delay: 0.25s" />
 
-      <!-- Base -->
-      <div class="mt-8 flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
+      <div
+        class="scroll-reveal mt-8 flex flex-col gap-6 md:flex-row md:items-center md:justify-between"
+        style="transition-delay: 0.35s"
+      >
         <p class="text-[16px]">
           <strong class="font-black">Fernanda Signorelli</strong> — Web Designer
         </p>
