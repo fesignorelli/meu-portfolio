@@ -2055,7 +2055,7 @@ const _geIYnfMqhTdIK87OtiUCLbNJ32SxXhIGzqGOLvsXbg = (function(nitro) {
 
 const rootDir = "C:/Users/signo/Downloads/fernanda-portfolio";
 
-const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"},{"name":"description","content":"Portfolio de Fernanda Signorelli — Web Designer e Front-end Developer."}],"link":[{"rel":"icon","type":"image/png","href":"/favicon.png"},{"rel":"preconnect","href":"https://fonts.googleapis.com"},{"rel":"preconnect","href":"https://fonts.gstatic.com","crossorigin":""},{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;0,900;1,700&family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,800&display=swap"}],"style":[],"script":[],"noscript":[],"title":"Fernanda Signorelli — Portfolio"};
+const appHead = {"meta":[{"name":"viewport","content":"width=device-width, initial-scale=1"},{"charset":"utf-8"},{"name":"description","content":"Portfolio de Fernanda Signorelli — Web Designer e Front-end Developer."}],"link":[{"rel":"icon","type":"image/png","href":"/favicon.png"},{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"},{"rel":"preconnect","href":"https://fonts.googleapis.com"},{"rel":"preconnect","href":"https://fonts.gstatic.com","crossorigin":""},{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;0,900;1,700&family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,800&display=swap"}],"style":[],"script":[],"noscript":[],"title":"Fernanda Signorelli — Portfolio"};
 
 const appRootTag = "div";
 
