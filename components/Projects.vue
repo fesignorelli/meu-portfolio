@@ -22,7 +22,7 @@
   <section id="projetos" class="paper-texture bg-cream text-[#272521]">
     <div class="mx-auto max-w-[1440px] px-6 py-20 md:px-[102px] lg:py-24">
       <div v-for="(group, g) in projectGroups" :key="group.title" :class="g > 0 ? 'mt-24' : ''">
-        <h3 class="scroll-reveal text-[60px] font-black leading-none text-pink-dark">
+        <h3 class="scroll-reveal text-[clamp(32px,9vw,60px)] font-black leading-none text-pink-dark">
           {{ group.title }}
         </h3>
 
