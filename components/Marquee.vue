@@ -1,5 +1,5 @@
 <template>
-  <div class="h-[100px] overflow-hidden bg-black text-white" aria-label="Boas-vindas">
+  <div class="h-[100px] overflow-hidden bg-pink-dark text-white" aria-label="Boas-vindas">
     <div
       class="marquee-track flex h-full w-max items-center whitespace-nowrap font-inter text-[25px]"
     >

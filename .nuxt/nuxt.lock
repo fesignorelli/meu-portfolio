@@ -1,0 +1,9 @@
+{
+  "pid": 27248,
+  "startedAt": 1791762941766,
+  "command": "dev",
+  "cwd": "C:/Users/signo/Downloads/fernanda-portfolio",
+  "port": 3126,
+  "hostname": "::1",
+  "url": "http://[::1]:3126"
+}

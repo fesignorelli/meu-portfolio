@@ -17,6 +17,7 @@ useScrollAnimation()
       <Skills />
       <Experience />
       <Projects />
+      <SocialMedia />
     </main>
 
     <Footer />
